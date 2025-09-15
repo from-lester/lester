@@ -1,16 +1,19 @@
 ---
-title: Home
+title: Six Steps
+description: to the Sedona Method
 layout: default
 nav_order: 1
 ---
 
-Welcome to **Jekyll GH Actions Quickstart** project - a template, demo and tutorial.
 
-This site acts a demo of a site build with Jekyll 4, GitHub Actions and the [just-the-docs](https://just-the-docs.github.io/just-the-docs/) Jekyll theme.
+Step 1: You must want freedom more than you want the world.
 
-The pages here also provide guidance on how and why this setup was made and how to get your own copy of this template so you can deploy too.
+Step 2: Decide that you CAN do the method and be imperturbable.
 
-[Getting started][]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View source][]{: .btn .fs-5 .mb-4 .mb-md-0 }
+Step 3: See that all your feelings culminate in three wants, the want of approval, the want to control, and the want of security. See that immediately and immediately let go of the want of approval, the want to control and the want of security.
 
-[Getting Started]: {% link create-your-own.md %}
-[View source]: https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart
+Step 4: Make it constant. Release all your wanting approval, wanting to control and wanting security when alone or with people.
+
+Step 5: If you are stuck, let go of wanting to control the stuckness.
+
+Step 6: Each time you use the method, you are lighter and happier. If you do this continually, you will continually be lighter and happier.
