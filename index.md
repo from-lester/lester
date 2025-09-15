@@ -1,10 +1,11 @@
 ---
 title: Six Steps
-description: to the Sedona Method
+description: "to the Sedona Method"
 layout: default
-nav_order: 1
+nav_order: 0
 ---
 
+# Six Steps
 
 Step 1: You must want freedom more than you want the world.
 

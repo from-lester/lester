@@ -1,9 +1,12 @@
 ---
 title: The Way
 description: Lester's lecture to advanced students on June 5th, 1989
+has_toc: true
+usetocbot: true
 ---
+# The Way
 
-# [The Way, Part 1](https://www.youtube.com/watch?v=WpgNTmjQgO0)
+## [The Way, Part 1](https://www.youtube.com/watch?v=WpgNTmjQgO0)
 (Recording duration: 29:55)
 
 **Lester:**  
