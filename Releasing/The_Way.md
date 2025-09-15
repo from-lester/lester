@@ -1,10 +1,13 @@
 ---
 title: The Way
+parent: Releasing
 description: Lester's lecture to advanced students on June 5th, 1989
 has_toc: true
-usetocbot: true
+back_to_top: true
+back_to_top_text: "Back to top"
 ---
-# The Way
+- TOC
+{:toc}
 
 ## [The Way, Part 1](https://www.youtube.com/watch?v=WpgNTmjQgO0)
 (Recording duration: 29:55)
@@ -333,3 +336,6 @@ So, try to get out of the habit of why, questioning. Just do it. Throwing up why
 
 OK, I think we can end the session.
  
+
+## The Way, Part 2
+
