@@ -1,12 +1,12 @@
 ### Site metadata
 
-title: Jekyll GH Actions Quickstart
-description: Starter template for a Jekyll 4 site - deployed with GH Actions and GH Pages
+title: From Lester Levenson
+description: Teachings from this Self-realized master
 
 ### Build settings
 
 url: https://from-lester.github.io
-baseurl: /jekyll-gh-actions-quickstart
+baseurl: /lester
 
 theme: just-the-docs
 
@@ -26,4 +26,4 @@ exclude:
 ### Theme settings
 
 aux_links:
-  "View source": "https://github.com/from-lester/jekyll-gh-actions-quickstart"
+  "View source": "https://github.com/from-lester/lester"
