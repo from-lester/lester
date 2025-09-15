@@ -76,41 +76,34 @@
     
     "relUrl": "/create-your-own.html"
   },"11": {
-    "doc": "Home",
-    "title": "Six Steps to the Sedona Method:",
+    "doc": "Six Steps",
+    "title": "Six Steps",
     "content": "Step 1: You must want freedom more than you want the world. Step 2: Decide that you CAN do the method and be imperturbable. Step 3: See that all your feelings culminate in three wants, the want of approval, the want to control, and the want of security. See that immediately and immediately let go of the want of approval, the want to control and the want of security. Step 4: Make it constant. Release all your wanting approval, wanting to control and wanting security when alone or with people. Step 5: If you are stuck, let go of wanting to control the stuckness. Step 6: Each time you use the method, you are lighter and happier. If you do this continually, you will continually be lighter and happier. ",
-    "url": "/lester/#six-steps-to-the-sedona-method",
-    
-    "relUrl": "/#six-steps-to-the-sedona-method"
-  },"12": {
-    "doc": "Home",
-    "title": "Home",
-    "content": " ",
     "url": "/lester/",
     
     "relUrl": "/"
-  },"13": {
+  },"12": {
     "doc": "Resources",
     "title": "GH Pages and GH Actions",
     "content": ". | GitHub Actions resources. | Including links to the officials docs and my blog posts own getting started with GH Actions. Plus there are links to my cookbook and cheatsheets so you can learn more about GitHub Actions - solving a variety of cased around Jekyll, Node, Python and more. | . | GitHub Pages resources. | For hosting your static website. | . | . I also wrote a tutorial on the Jekyll around using GitHub Actions. So check that out for more info on how this template works. The main difference is that the tutorial uses a Jekyll-specific Action, while this template project uses a more generic flow. | CI/CD - GitHub Actions | . ",
     "url": "/lester/resources.html#gh-pages-and-gh-actions",
     
     "relUrl": "/resources.html#gh-pages-and-gh-actions"
-  },"14": {
+  },"13": {
     "doc": "Resources",
     "title": "Jekyll-related",
     "content": ". | Ruby resources. | Jekyll is written in Ruby, so you need Ruby installed. | . | Jekyll resources. | A static site generator which uses Markdown or HTML content and allows use of themes. | . | Just The Docs - a theme on RubyGems which is used by this template. | . ",
     "url": "/lester/resources.html#jekyll-related",
     
     "relUrl": "/resources.html#jekyll-related"
-  },"15": {
+  },"14": {
     "doc": "Resources",
     "title": "Related template projects",
     "content": "If you are interested in seeing similar, have a look here. Note , these use Jekyll 3 only and no GH Actions. | . | default blog generated with Jekyll CLI. Using a theme, content, style set up, gems, and a Makefile. | . | . | minimal Jekyll site with a theme but no Gemfile. | . | . | React site uses GH Actions to build the site with NPM and deploy the results as a GH Pages site. | . | . | Vue site uses GH Actions to build the site with NPM and deploy the results as a GH Pages site. | . | . | static built with Hugo, as a faster and more modern static-site generator. | . | . ",
     "url": "/lester/resources.html#related-template-projects",
     
     "relUrl": "/resources.html#related-template-projects"
-  },"16": {
+  },"15": {
     "doc": "Resources",
     "title": "Resources",
     "content": " ",
