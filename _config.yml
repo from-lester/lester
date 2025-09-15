@@ -17,13 +17,14 @@ defaults:
       layout: page
 
 exclude:
-  - docs/
+  # - docs/
   - LICENSE
   - Makefile
   - sample.png
-  - README.md
+  # - README.md
 
 ### Theme settings
+
 
 aux_links:
   "View source": "https://github.com/from-lester/lester"
